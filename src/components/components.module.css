@@ -1,0 +1,27 @@
+
+/* Styles for the component "Header.tsx" */
+#headerContainer{
+    position: relative;
+    background-color: #77dd77;
+}
+/* ////////////////////////////////////////// */
+
+/* Styles for the component "Mainhome.tsx"*/
+#mainContainer{
+    border: 10px solid red;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 92.8vh;
+}
+
+/* ////////////////////////////////////////// */
+
+/* Styles for the footer from the component "Footer.tsx" */ 
+#footerContainer{
+    margin-top: auto;
+    background-color:#77dd77;
+}
+/* ////////////////////////////////////////// */
